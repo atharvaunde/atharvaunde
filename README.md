@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hi there, am Atharva!
 
+<p>Atharva is a passionate developer with experience in technologies such as VueJs, NodeJs, microservices, Docker, and DevOps. He has been working with VueJs for 3 years and with NodeJs for more then a year. He has also been exploring Docker and DevOps for a couple of months. Atharva is always looking for new challenges and opportunities to grow his skills and knowledge in the field of technology. Connect with him on LinkedIn to learn more about his work and experience.</p>
 <!--
 **atharvaunde/atharvaunde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
