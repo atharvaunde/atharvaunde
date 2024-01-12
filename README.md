@@ -1,17 +1,12 @@
-### Hi there, am Atharva!
-
-<p>Atharva is a passionate developer with experience in technologies such as VueJs, NodeJs, microservices, Docker, and DevOps. He has been working with VueJs for 3 years and with NodeJs for more then a year. He has also been exploring Docker and DevOps for a couple of months. Atharva is always looking for new challenges and opportunities to grow his skills and knowledge in the field of technology. Connect with him on LinkedIn to learn more about his work and experience.</p>
-<!--
-**atharvaunde/atharvaunde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+	<img width="40" src="https://github.githubassets.com/images/spinners/octocat-spinner-64.gif">
+<p align="center"><strong>We didn't receive a proper request from your browser.</strong></p>
+<p align="center">Sorry about that. Please try refreshing and contact us if the problem persists.</p>
+<p align="center">
+	<a href="https://youtu.be/2yJgwwDcgV8?si=EBkLUVbo4EBOxQzDQ">Contact Support</a> —
+	<a href="https://youtu.be/2yJgwwDcgV8?si=EBkLUVbo4EBOxQzDQ">GitHub Status</a> —
+	<a href="https://youtu.be/2yJgwwDcgV8?si=EBkLUVbo4EBOxQzDQ">@githubstatus</a>
+</p>
+<p></p>
+<p></p>
+</p>
